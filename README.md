@@ -1825,6 +1825,8 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 ### Self-hosting Solutions
 
+- [REG-Vault](https://regvault.org) - Retro-gaming metadata catalog. 91k games, 99 systems, with MCP + REST APIs. Cloudflare-native deployment reproducible via Workers + D1 + R2.
+
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
 Software for easy installation, management and configuration of self-hosted services and applications.
